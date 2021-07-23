@@ -34,6 +34,8 @@ source $HOME/.config/nvim/plug-config/indentline.vim
 source $HOME/.config/nvim/plug-config/ternjs.vim
 source $HOME/.config/nvim/plug-config/deoplete.vim
 source $HOME/.config/nvim/plug-config/neomake.vim
+source $HOME/.config/nvim/plug-config/emmet.vim
+source $HOME/.config/nvim/plug-config/ulti-snips.vim
 
 " Add paths to node and python here
 if !empty(glob("~/.config/nvim/paths.vim"))

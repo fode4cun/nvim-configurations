@@ -50,6 +50,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'vim-airline/vim-airline'
     Plug 'vim-airline/vim-airline-themes'
     " Snippets
+    Plug 'SirVer/ultisnips'
     Plug 'honza/vim-snippets'
     " Intuitive buffer closing
     Plug 'moll/vim-bbye'

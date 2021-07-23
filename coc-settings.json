@@ -28,7 +28,7 @@
     "python.jediEnabled": false,
 
 
-    "snippets.ultisnips.directories": ["~/.config/nvim/autoload/plugged/vim-snippets/UltiSnips/"],
+    "snippets.ultisnips.directories": ["~/.config/nvim/autoload/plugged/vim-snippets/snippets/"],
 
     "emmet.includeLanguages": {
         "vue-html": "html",
