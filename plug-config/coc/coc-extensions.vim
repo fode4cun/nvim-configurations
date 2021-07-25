@@ -10,5 +10,8 @@ let g:coc_global_extensions = [
 	\ 'coc-snippets',
 	\ 'coc-sql',
 	\ 'coc-yaml',
-	\ 'coc-yank'
+	\ 'coc-yank',
+    \ 'coc-tsserver',
+    \ 'coc-eslint',
+    \ 'coc-vetur',
 	\ ]

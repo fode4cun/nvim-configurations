@@ -14,12 +14,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Plug 'romgrk/barbar.nvim'
     " Plug 'kyazdani42/nvim-web-devicons'
 
-    " JavaScript AtuoComplete
-    Plug 'Shougo/deoplete.nvim'
-    Plug 'ternjs/tern_for_vim', { 'do': 'npm install && npm install -g tern' }
-    Plug 'carlitux/deoplete-ternjs'
-    " JavaScript Linting
-    Plug 'neomake/neomake'
     " Live Editing HTML / CSS /JS
     Plug 'turbio/bracey.vim'
     " Show Tralling WhiteSpaces
@@ -60,9 +54,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'Yggdroot/indentLine'
 
 call plug#end()
-
-" Engine for async eslint run atumatically
-call neomake#configure#automake('nrwi', 500)
 
 " Automatically install missing plugins on startup
 autocmd VimEnter *

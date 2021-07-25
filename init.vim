@@ -31,9 +31,6 @@ source $HOME/.config/nvim/plug-config/markdown-preview.vim
 source $HOME/.config/nvim/plug-config/quickscope.vim
 source $HOME/.config/nvim/plug-config/xtabline.vim
 source $HOME/.config/nvim/plug-config/indentline.vim
-source $HOME/.config/nvim/plug-config/ternjs.vim
-source $HOME/.config/nvim/plug-config/deoplete.vim
-source $HOME/.config/nvim/plug-config/neomake.vim
 source $HOME/.config/nvim/plug-config/emmet.vim
 source $HOME/.config/nvim/plug-config/ulti-snips.vim
 
