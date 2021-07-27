@@ -20,12 +20,9 @@
     "list.selectedSignText": " ",
 
     "coc.preferences.formatOnSaveFiletypes": [],
-    "coc.preferences.hoverTarget": "float",
 
     "python.linting.enabled": true,
     "python.linting.flake8Enabled": true,
-    "python.linting.lintOnSave": true,
-    "python.jediEnabled": false,
 
 
     "snippets.ultisnips.directories": ["~/.config/nvim/autoload/plugged/vim-snippets/snippets/"],
@@ -40,7 +37,6 @@
     "explorer.icon.enableNerdfont": true,
     "explorer.file.showHiddenFiles": true,
     "explorer.previewAction.onHover": false,
-    "explorer.icon.enableVimDevicons": false,
     "explorer.keyMappings.global": {
         "<cr>": [
             "expandable?",

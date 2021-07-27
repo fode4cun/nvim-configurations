@@ -1,1 +1,1 @@
-let g:python3_host_prog = expand("~/.pyenv/versions/3.8.5/bin/python3.8")
+let g:python3_host_prog = trim(system('$PYTHON_INTERPRETER'))

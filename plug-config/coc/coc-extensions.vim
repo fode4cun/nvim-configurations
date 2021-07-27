@@ -5,7 +5,6 @@ let g:coc_global_extensions = [
 	\ 'coc-markdownlint',
     \ 'coc-marketplace',
     \ 'coc-pyright',
-	\ 'coc-python',
 	\ 'coc-sh',
 	\ 'coc-snippets',
 	\ 'coc-sql',
