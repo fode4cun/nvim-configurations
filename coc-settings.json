@@ -15,6 +15,7 @@
     "diagnostic.warningSign": " ",
     "diagnostic.infoSign": "",
     "diagnostic.hintSign": " ",
+    "diagnostic.checkCurrentLine": true,
 
     "list.indicator": ">",
     "list.selectedSignText": " ",
